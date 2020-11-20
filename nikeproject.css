@@ -1,0 +1,75 @@
+.header {
+  display: inline-block;
+  position: relative;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  border-radius: 90%;
+}
+
+.headertext {
+  display:inline;
+  vertical-align:160%;
+  padding:15px;
+  font-family:Verdana, Geneva, sans-serif;
+}
+
+.shoe {
+  height:300px;
+  width:534px;
+}
+
+.info {
+ display:inline-block;
+ font-family:Verdana, Geneva, sans-serif;
+}
+
+p.info {
+  color:#CCCCCC;
+  padding-left:350px ;
+}
+
+#pin {
+  height:40px;
+  width:40px;
+}
+
+.info1 {
+  color:#AAAAAA;
+  display:inline-block;
+  font-family:Verdana, Geneva, sans-serif;
+}
+
+.tags {
+  background-color:#EBF9EC;
+  color:#27AD6E;
+  border:none;
+  font-family:Verdana, Geneva, sans-serif;
+  font-size:18px;
+  padding:12px 22px;
+  border-radius:8px;
+  transition-duration:0.4s;
+}
+
+.tags:hover {
+  background-color:#27AD6E;
+  color:#EBF9EC;
+}
+
+footer {
+  background-color:#FAFBFC;
+  width:534px;
+  height:80px;
+}
+
+p, .footer {
+  font-family:Verdana, Geneva, sans-serif;
+}
+
+p, .description {
+  color:#555555;
+}
+
+p, .description2 {
+  color:#AAAAAA;
+}
